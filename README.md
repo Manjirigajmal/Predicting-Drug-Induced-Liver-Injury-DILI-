@@ -1,4 +1,4 @@
- Predicting Drug-Induced Liver Injury (DILI) Using Machine Learning
+# Predicting Drug-Induced Liver Injury (DILI) Using Machine Learning
 
 ## 🔍 Project Overview
 
