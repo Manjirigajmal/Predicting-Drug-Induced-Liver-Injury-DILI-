@@ -107,23 +107,4 @@ These trends are consistent with **medicinal chemistry intuition** and help expl
 
 ---
 
-## 🚀 How to Run the Project
 
-### Option 1: Run in Google Colab
-
-1. Open the notebook in Colab.  
-2. Make sure GPU/CPU runtime is set as needed (`Runtime → Change runtime type`).  
-3. Run all cells sequentially:
-   - Data loading / generation  
-   - EDA & visualization  
-   - Preprocessing  
-   - Model training & evaluation  
-   - Interpretation / feature importance  
-
-### Option 2: Run Locally
-
-1. **Clone this repository**
-
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
